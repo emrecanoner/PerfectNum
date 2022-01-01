@@ -1,0 +1,10 @@
+C:\Users\emrec\source\repos\MukemmelSayi\MukemmelSayi\bin\Debug\MukemmelSayi.exe.config
+C:\Users\emrec\source\repos\MukemmelSayi\MukemmelSayi\bin\Debug\MukemmelSayi.exe
+C:\Users\emrec\source\repos\MukemmelSayi\MukemmelSayi\bin\Debug\MukemmelSayi.pdb
+C:\Users\emrec\source\repos\MukemmelSayi\MukemmelSayi\obj\Debug\MukemmelSayi.csprojAssemblyReference.cache
+C:\Users\emrec\source\repos\MukemmelSayi\MukemmelSayi\obj\Debug\MukemmelSayi.Form1.resources
+C:\Users\emrec\source\repos\MukemmelSayi\MukemmelSayi\obj\Debug\MukemmelSayi.Properties.Resources.resources
+C:\Users\emrec\source\repos\MukemmelSayi\MukemmelSayi\obj\Debug\MukemmelSayi.csproj.GenerateResource.cache
+C:\Users\emrec\source\repos\MukemmelSayi\MukemmelSayi\obj\Debug\MukemmelSayi.csproj.CoreCompileInputs.cache
+C:\Users\emrec\source\repos\MukemmelSayi\MukemmelSayi\obj\Debug\MukemmelSayi.exe
+C:\Users\emrec\source\repos\MukemmelSayi\MukemmelSayi\obj\Debug\MukemmelSayi.pdb
